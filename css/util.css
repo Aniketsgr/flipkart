@@ -1,0 +1,102 @@
+
+
+.text{
+
+   
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    
+}
+
+.logo{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.logo img{
+
+    height: 5vh;
+                 
+}
+.items{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center; 
+    padding: 0 0 0 50px;
+  
+}
+.search{
+    padding: 0 0 0 66px;
+    
+}
+.but{
+    padding: 2px;
+}
+.but input{
+    
+    width: 79px
+  
+}
+.search input{
+     border-radius: 6px;
+}
+.slider1{
+    overflow: hidden;
+    margin: 34px 0 18px 216px;
+    display: flex;
+    justify-content: flex start;
+    align-items: center;
+
+}
+.slider1 img{
+    width: 939px;
+height: 263px;
+}
+.card-item img{
+    height:170px ;
+    width: 170px
+
+}
+
+
+.card{
+
+    color: white;
+    display: flex;
+    align-items: center;
+    overflow: scroll;
+    margin: 0px 0 0 28px;
+}
+.lines{
+    color: black;
+}
+.furniture{
+   
+    color: white;
+    display: flex;
+    align-items: center;
+    overflow: scroll;
+    margin: 0 0 0 28px;
+}
+.my2{
+    margin: 18px;
+}
+.my3{
+    margin: 55px 0 26px 28px;
+}
+
+.card-item{
+    padding: 0 15px 0 5px;
+}
+.fur-items{
+    padding: 0 15px 0 5px;
+}
+.per{
+    display: flex;
+    align-items: center;
+    margin: 0 0 0 128px;
+}
+.per li{
+    padding: 17px;
+}

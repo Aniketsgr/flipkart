@@ -1,0 +1,61 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhaina+2&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Baloo+Bhaina+2&family=IBM+Plex+Sans+Thai+Looped:wght@100&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+header{
+    height: 10vh;
+    background-color:rgb(29, 131, 226);
+  
+    
+   
+}
+nav{
+    display: flex;
+}
+
+  ul{  
+    height: 12vh;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center; 
+    
+}
+li{
+    list-style: none;
+    padding: 0 23px ;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+      a :hover{
+    font-weight: bolder;
+}
+input{
+    width: 407px;
+}
+.container{
+    
+    height: 169vh
+    
+}
+.search input{
+    color: black;
+}
+  
+
+footer{
+    height: 12vh;
+color: black;
+font-family: 'Baloo Bhaina 2', cursive;
+
+}
+.text{
+    font-style:'Baloo Bhaina 2', cursive ;
+}
